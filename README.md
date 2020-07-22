@@ -6,3 +6,8 @@ A simple nodejs test.
 2. Test
 3. Test
 
+```
+<script>
+  console.log(123);
+</script>
+```
